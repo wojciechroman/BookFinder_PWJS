@@ -18,6 +18,6 @@ Aplikacja typu BookFinder, pozwalająca wyszukiwać literaturę. Aplikacja opart
  - [ ] Dodanie kilku wariantów wyświetlania danych
  - [ ] Dodanie możliwości sortowania danych
  - [ ] Ewaluacja projektu
- - [ ] Wprowadzenie ewentualnych poprawek, poprawa błędów
+ - [ ] Wprowadzenie ewentualnych ulepszeń, poprawa błędów
 
 
