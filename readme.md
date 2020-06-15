@@ -12,12 +12,11 @@ Aplikacja typu BookFinder, pozwalająca wyszukiwać literaturę. Aplikacja opart
 ## 3. Plan wykonania
  - [x] Opracowanie planu wykonania projektu
  - [x] Stworzenie repozytorium dla projektu na GitHubie
- - [ ] Stworzenie szablonu HTML
- - [ ] Pobieranie danych/Zapytania API
- - [ ] Zdefniniowanie CSS
- - [ ] Dodanie kilku wariantów wyświetlania danych
- - [ ] Dodanie możliwości sortowania danych
- - [ ] Ewaluacja projektu
- - [ ] Wprowadzenie ewentualnych ulepszeń, poprawa błędów
+ - [x] Stworzenie szablonu HTML
+ - [x] Pobieranie danych/Zapytania API
+ - [x] Zdefniniowanie CSS
+ - [x] Dodanie kilku wariantów wyświetlania danych
+ - [x] Ewaluacja projektu
+ - [x] Wprowadzenie ewentualnych ulepszeń, poprawa błędów
 
 
